@@ -2,9 +2,11 @@
 
 <h1> Region-Aware Text-to-Image Generation via Hard Binding and Soft Refinement </h1>
 
-[**Zhennan Chen**](#)<sup>1*</sup> · [**Yajie Li**](#)<sup>1*</sup> · [**Haofan Wang**](https://haofanwang.github.io/)<sup>2,3</sup> · [**Zhibo Chen**](#)<sup>3</sup> · [**Zhengkai Jiang**](https://jiangzhengkai.github.io/)<sup>4</sup> · [**Jun Li**](https://sites.google.com/view/junlineu/)<sup>1</sup> · [**Qian Wang**](#)<sup>5</sup> · [**Jian Yang**](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup> ·[**Ying Tai**](https://tyshiwo.github.io/)<sup>1✉</sup>
+[**Zhennan Chen**](#)<sup>1*</sup> · [**Yajie Li**](#)<sup>1*</sup> · [**Haofan Wang**](https://haofanwang.github.io/)<sup>2,3</sup> · [**Zhibo Chen**](#)<sup>3</sup> · [**Zhengkai Jiang**](https://jiangzhengkai.github.io/)<sup>4</sup> · [**Jun Li**](https://sites.google.com/view/junlineu/)<sup>1</sup> · [**Qian Wang**](#)<sup>5✉</sup> · [**Jian Yang**](https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup> ·[**Ying Tai**](https://tyshiwo.github.io/)<sup>1✉</sup>
 
 <sup>1</sup>Nanjing University · <sup>2</sup>InstantX Team · <sup>3</sup>Liblib AI · <sup>4</sup>HKUST · <sup>5</sup>China Mobile
+
+<sup>*</sup> Equal Contribution. <sup>✉</sup>Corresponding Author. 
 
 <a href='https://arxiv.org/abs/2411.06558'><img src='https://img.shields.io/badge/Technique-Report-red'></a>
 <a href='https://huggingface.co/spaces/NJU/RAG-Diffusion'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
